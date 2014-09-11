@@ -8,6 +8,7 @@ The program reads an input file (provided on the command line) which contains mu
 
 Example Input: 
 3 5 10
+
 2 7 15
 
 
@@ -17,6 +18,7 @@ The program outputs the series 1 through N replacing numbers divisible by 'A' by
 
 Output Example:
 1 2 F 4 B F 7 8 F B
+
 1 F 3 F 5 F B F 9 F 11 F 13 FB 15
 
 
