@@ -17,7 +17,7 @@ Output:
 
 The program outputs the series 1 through N replacing numbers divisible by 'A' by F, numbers divisible by 'B' by B, and numbers divisible by both as 'FB'. Since the input file can contain multiple sets of values, the output will print out one line per set.
 
-Output Example:
+Example Output :
 
 1 2 F 4 B F 7 8 F B
 
